@@ -2,7 +2,7 @@
 #### Junior frontend-developer from Saint-Petersburg.
 I`m a motion/media designer by education, but over time, I realized that I prefer solving a problem than doing creative work and talking about tastes. I decided to try programming, and frontend was the closest to my interests. Today I spend all my free and busy time studying development and currently:
 
-- I have [successfully](https://app.rs.school/certificate/9vnq3zo5) completed a course in Frontend/JavaScript development by Rolling Scopes School (EPAM)
+- I have [completed](https://app.rs.school/certificate/9vnq3zo5) a course in Frontend/JavaScript development by Rolling Scopes School (EPAM)
 - learning React (have a course)
 - starting to use TypeScript
 - finding a company that will hire a really diligent and highly motivated young specialist.
@@ -17,10 +17,10 @@ I`m a motion/media designer by education, but over time, I realized that I prefe
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
 
 #### Some projects: 
-- [Kopeicki](https://kopeicki.netlify.app/) Financial accounting application. Team development. [Repo](https://github.com/katkopikat/rsclone)
-- [Sudoku on React](https://katkopikat-react-game.netlify.app/new-game) First react app. [Repo](https://github.com/katkopikat/react-game)
-- [Covid-19 Dashboard](https://katkopikat-covid-dashboard.netlify.app/) Application with statistics on the spread of COVID-19 in the world. Team development. [Repo](https://github.com/katkopikat/covid-dashboard)
-- [Momentum](https://rolling-scopes-school.github.io/katkopikat-JS2020Q3/momentum/) The application shows the time, the user's goal for the current day and the weather for the selected city. [Repo](https://github.com/katkopikat/rs-projects/tree/gh-pages/momentum)
+- [Kopeicki](https://kopeicki.netlify.app/) / Financial accounting application. Team development. [Article](https://katkopikat.medium.com/kopeicki-7496575423a7) about development. [Repo.](https://github.com/katkopikat/rsclone) 
+- [Sudoku on React](https://katkopikat-react-game.netlify.app/new-game) / First React app. [Repo.](https://github.com/katkopikat/react-game)
+- [Covid-19 Dashboard](https://katkopikat-covid-dashboard.netlify.app/) / Application with statistics on the spread of COVID-19 in the world. Team development. [Repo.](https://github.com/katkopikat/covid-dashboard)
+- [Momentum](https://rolling-scopes-school.github.io/katkopikat-JS2020Q3/momentum/) / The application shows the time, the user's goal for the current day and the weather for the selected city. [Repo.](https://github.com/katkopikat/rs-projects/tree/gh-pages/momentum)
 - [*more>>*](https://github.com/katkopikat/rsschool-cv)
 
 ![nikname](https://img.shields.io/badge/-katkopikat:-0D1117?style=for-the-badge&logo=)
