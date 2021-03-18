@@ -18,6 +18,7 @@ I`m a motion/media designer by education, but over time, I realized that I prefe
 
 #### Some projects: 
 - [Kopeicki](https://kopeicki.netlify.app/) / Financial accounting application. Team development. [Article](https://katkopikat.medium.com/kopeicki-7496575423a7) about development. [Repo.](https://github.com/katkopikat/rsclone) 
+- [.goAsia.](https://katkopikat-travel-app.netlify.app/) / App about Asian countries on React and TypeScript. Team development. [Repo](https://github.com/katkopikat/travel-app/tree/travel-app)
 - [Sudoku on React](https://katkopikat-react-game.netlify.app/new-game) / First React app. [Repo.](https://github.com/katkopikat/react-game)
 - [Covid-19 Dashboard](https://katkopikat-covid-dashboard.netlify.app/) / Application with statistics on the spread of COVID-19 in the world. Team development. [Repo.](https://github.com/katkopikat/covid-dashboard)
 - [Momentum](https://rolling-scopes-school.github.io/katkopikat-JS2020Q3/momentum/) / The application shows the time, the user's goal for the current day and the weather for the selected city. [Repo.](https://github.com/katkopikat/rs-projects/tree/gh-pages/momentum)
