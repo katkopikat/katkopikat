@@ -1,22 +1,24 @@
 ### Hi, I`m Katy! 👋
-#### Junior frontend-developer from Saint-Petersburg.
+#### Front-End developer from Saint-Petersburg | [CV](https://katkopikat.netlify.app/).
+
 I`m a motion/media designer by education, but over time, I realized that I prefer solving a problem than doing creative work and talking about tastes. I decided to try programming, and frontend was the closest to my interests. Today I spend all my free and busy time studying development and currently:
 
-- I have [completed](https://app.rs.school/certificate/9vnq3zo5) a course in Frontend/JavaScript development by Rolling Scopes School (EPAM)
-- learning React (have a course)
+- I have completed a course in [Front-End | JavaScript](https://app.rs.school/certificate/9vnq3zo5) and [ReactJS](https://app.rs.school/certificate/7mcmx4m4) development by Rolling Scopes School (EPAM)
+- learning NodeJS (have a course)
 - starting to use TypeScript
 - finding a company that will hire a really diligent and highly motivated young specialist.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass)
 ![Webpack](https://img.shields.io/badge/-Webpack-0D1117?style=for-the-badge&logo=Webpack)
 ![ESLint](https://img.shields.io/badge/-ESLint-0D1117?style=for-the-badge&logo=ESLint)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
 
-#### Some projects: 
+#### Some projects:
+- [Ulearning](https://ulearning-69team.netlify.app/) / Application for learning 3600 most useful English words. App has 4 games and user's dictionary. [Repo](https://github.com/katkopikat/rslang)
 - [Kopeicki](https://kopeicki.netlify.app/) / Financial accounting application. Team development. [Article](https://katkopikat.medium.com/kopeicki-7496575423a7) about development. [Repo.](https://github.com/katkopikat/rsclone) 
 - [.goAsia.](https://katkopikat-travel-app.netlify.app/) / App about Asian countries on React and TypeScript. Team development. [Repo](https://github.com/katkopikat/travel-app/tree/travel-app)
 - [Sudoku on React](https://katkopikat-react-game.netlify.app/new-game) / First React app. [Repo.](https://github.com/katkopikat/react-game)
